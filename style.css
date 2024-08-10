@@ -8,6 +8,10 @@ body {
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Navbar Styles */
 .navbar {
     background-color: #1c1c1c;
